@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE066,50:F2C94C,100:FFA726&height=180&section=header&text=Hey,%20I'm%20Shreya&fontSize=42&fontColor=3a2e00&animation=twinkling&fontAlignY=40&desc=she%2Fher%20%F0%9F%8C%BB&descAlignY=60&descSize=18&descColor=3a2e00" />
 </p>
 
-<h1 align="center">hey, I'm Shreya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/></h1>
 <h3 align="center">AI/ML enthusiast • building stuff • always growing</h3>
 
 <p align="center">
