@@ -1,153 +1,57 @@
-<div align="center">
-
-# Hi 👋, I'm Shreya Ghodmare
-
-### Python Developer • AI & Machine Learning Enthusiast • Data Analytics
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+Solutions...;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀"/>
-
-<p>
-
-<a href="https://www.linkedin.com/in/shreya-ghodmare-216417308/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ghodmareshreya@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/JuBhKynSu1/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
-</div>
-
----
-
-# 👩‍💻 About Me
-
-🎓 Final Year Information Technology Student
-
-💙 Passionate about Artificial Intelligence, Machine Learning, and Data Analytics.
-
-💡 I enjoy building practical Python applications that solve real-world problems, from AI-powered chatbots to data-driven analytics.
-
-🌱 Currently improving my skills in Machine Learning, SQL, PostgreSQL, and Data Structures & Algorithms.
-
----
-
-# 🚀 Featured Projects
-
-## 🌾 Kisan Bandhu
-
-An AI-powered smart agriculture platform designed to assist farmers through intelligent recommendations.
-
-**Highlights**
-
-- 🤖 AI Chatbot
-- 🌱 Crop Advisory
-- 📈 Market Insights
-- 🌦 Weather Information
-
----
-
-## 🤖 AI RAG Chatbot
-
-Retrieval-Augmented Generation chatbot capable of answering agriculture-related questions using semantic search.
-
----
-
-## 📊 Customer Shopping Behavior Analysis
-
-Analyzed customer purchasing patterns using Python and PostgreSQL to uncover business insights through data visualization.
-
----
-
-## 📈 Global Happiness Dashboard
-
-Interactive Power BI dashboard providing country-wise insights and KPI analysis.
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,postgres,mysql"/>
-
-</div>
-
-### Libraries & Tools
-
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- TensorFlow
-- Jupyter Notebook
-
----
-
-# 🌱 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- PostgreSQL
-- Data Structures & Algorithms
-- Generative AI
-
----
-
-# 📊 GitHub Statistics
+<h1 align="center">hey, I'm Shreya 🌻</h1>
+<h3 align="center">AI/ML enthusiast • building stuff • always growing</h3>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreya10110&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya10110&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=F2C94C&center=true&vCenter=true&width=500&lines=she%2Fher+%F0%9F%8C%BB;loves+building+AI+things;RAG+%2B+chatbots+%2B+chaos;always+learning+something+new" />
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shreya10110&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://www.linkedin.com/in/shreya-ghodmare-216417308/"><img src="https://img.shields.io/badge/LinkedIn-F2C94C?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:ghodmareshreya@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-FFD966?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/JuBhKynSu1/"><img src="https://img.shields.io/badge/LeetCode-FBC02D?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+### 🌻 a lil about me
+- final year IT student, top 10% of my batch (don't ask how, coffee mostly ☕)
+- obsessed with **AI/ML** — give me a dataset and a problem and I'm gone for hours
+- currently building **KisanBandhu** 🌾 — an AI chatbot that helps farmers, powered by RAG
+- I've won a few hackathons and published a few papers, but honestly I just like *making things work*
+- also very good at breaking things then fixing them at 2am
 
-<p align="center">
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya10110&theme=tokyo-night&hide_border=true"/>
+### ✨ things I've built
+🌾 **KisanBandhu** — RAG chatbot for farmers (LangChain + FAISS + a lot of patience)
+📉 **DropAlert** — tracks Flipkart prices so I don't overpay lol
+✈️ **Travel Comparator** — ranks travel packages, because decisions are hard
+🧠 **Brain Tumor Detector** — CNN model from my ML internship
 
+---
+
+### 🛠️ what I vibe with
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,postgres,git,vscode" />
 </p>
 
 ---
 
-# 📫 Connect With Me
+### 📈 the numbers people like
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreya10110&show_icons=true&theme=gruvbox&hide_border=true&title_color=F2C94C&icon_color=FFD966&text_color=fff" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Shreya10110&theme=gruvbox&hide_border=true&ring=F2C94C&fire=FFD966&currStreakLabel=F2C94C" height="160" />
+</p>
 
-<p align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya10110&layout=donut-vertical&theme=gruvbox&hide_border=true&title_color=F2C94C&text_color=fff" height="200" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya10110&theme=react-dark&hide_border=true&color=F2C94C&line=FFD966&point=fff" height="200" />
+</p>
 
-<a href="mailto:ghodmareshreya@gmail.com">📧 Email</a> •
-<a href="https://www.linkedin.com/in/shreya-ghodmare-216417308/">💼 LinkedIn</a> •
-<a href="https://leetcode.com/u/JuBhKynSu1/">🧩 LeetCode</a>
-
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreya10110&theme=gruvbox&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-<div align="center">
-
-### ✨ *"Learning. Building. Growing."*
-
-Thank you for visiting my profile ⭐
-
-</div>
+<p align="center">🌻 say hi, always down to talk AI/ML, chai, or hackathon war stories</p>
